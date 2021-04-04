@@ -5,6 +5,9 @@ title: Instalar Ubuntu con RAID 1 y LVM
 ## Aca hacemos el tutorial de como hacer un raid con lvm en ubuntu 18?
 ### Un **codigo** para probar.
 #### 
+:PROPERTIES:
+:id: 60696423-2c41-4d8c-9f90-d8463f3a3622
+:END:
 ```elixir
 defmodule MyModule do
   def greet(msg) do
