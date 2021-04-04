@@ -2,4 +2,6 @@
 title: Mina Protocol
 ---
 
-## Setup
+## Configurar un nodo
+### Sistema Operativo
+###
