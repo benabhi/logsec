@@ -23,6 +23,7 @@ Se sobreentiende que luego de cada paso es necesario darle a la opcion ^^Done^^ 
 #### Es posible que el instalador solicite actualización, seleccionamos "**Actualizar al instalador nuevo**". Esperamos entonces a que finalice la descarga.
 ### Seleccion de la distribucion del teclado.
 #### Establecemos, `Layout` y `Variant` en "**Spanish (Latin Amarican)**"
+#####
 ### Configuracion de Red.
 #### En la configuracion de red lo dejamos como viene por defecto o configuramos a gusto.
 ##### ![2021_04_04_network.PNG](https://cdn.logseq.com/%2F27628fff-82be-419a-b971-1869717d9bad5cf31aa6-340c-4548-98f6-f33b7b83c5c22021_04_04_network.PNG?Expires=4771159399&Signature=B1evsEcjT2J1dK7KblB9pOozMK3CDVKP1vTSMkBZEVWmIMZEkmTnNoMP9UUgPfrtDTYYhWPYi5CwQEMmUD93s087UawKinyojkk8u02WL-utYU80QHnDY-N32TlQ9~erGfoi7pk~M032ddiJyARtBtDDuq~26dfqHM~SiuFVWD3Sgh-Yf9kVmv55ZGIFN8QSyaBDMjrqRcwCgRy65UftWE-8zvgczOwA0D4vrDEPMAqVzy~rLKBtNYxBwa~~8h2GazoLP-0dWqEm9EYyPedheEj5XjWgwBwtrDepBQT2cHO4JqnXFF-K4TyLvHfbrJgoEhDlUTwC~UMbU0LoDJQSkg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
