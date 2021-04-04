@@ -22,7 +22,7 @@ Se sobre entiende que luego de cada paso es necesario darle a la opcion ^^Done^^
 #### Establecemos, `Layout` y `Variant` en **Spanish (Latin Amarican)**
 ### En la configuracion de red lo dejamos con esta.
 ### Proxy lo dejamos en blanco.
-### Los mirrors lo dejamos como esta.
+### Los mirrors lo dejamo
 #### ![2021_04_04_mirror.PNG](https://cdn.logseq.com/%2F27628fff-82be-419a-b971-1869717d9bad5272e331-5f3c-475e-841f-b1936cb994a32021_04_04_mirror.PNG?Expires=4771158727&Signature=GUQ68JyEKwHnnAKnSSlUhu08upPuRMQHgSk1DmMsgdhno6unECqPlb2aBR4w~22wrvb7aIFnNhfrWadYVo3aKaPzwWo6YgXkFdrXaOZdQ7PgXvJ1CxgjYL8aOLjfj1LdpAeTHlfHkI1msas~zgqZl8mKd3BJL8To5hK8m8hzVYIqC2Qw-VROhtbksUz-ByfZ-cSCX9fWGo8Z9xGgkDycAeFz4c6RMJRGHJpLdNv-H9aEb3UNFD7PG972WBIQNAQn~CYoY-i1d1gxjt-It9TMJsajL-UAigpWccyd~D3PtQ3lkRGGoNiN877DInXDNq03wXlI~JgGl43kDa3hZSdk0A__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ### Configuracion de discos.
 #### Seleccionamos "**Custom storage layout**"
