@@ -18,7 +18,7 @@ Se sobre entiende que luego de cada paso es necesario darle a la opcion ^^Done^^
 ### Bootear el sistema operativo
 ### En primera instancia pide el idioma, seleccionar "**Español**"
 ### Es posible que el instalador solicite actualización, seleccionamos "**Actualizar al instalador nuevo**". Esperamos entonces a que finalice la descarga.
-### Pasamos a la seleccion de teclado.
+### Seleccion de la distribucion del teclado.
 #### Establecemos, `Layout` y `Variant` en **Spanish (Latin Amarican)**
 ### En la configuracion de red lo dejamos con esta.
 ### Proxy lo dejamos en blanco.
