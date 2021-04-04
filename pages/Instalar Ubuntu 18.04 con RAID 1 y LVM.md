@@ -9,5 +9,5 @@ title: Instalar Ubuntu 18.04 con RAID 1 y LVM
 ## Instalacion y Configuracion del SO
 ### Bootear el sistema operativo
 ### En primera instancia pide el idioma, seleccionar "**Español**"
-### Es posible que el instalador solicite actualización, seleccionamos "**Actualizar al instalador nuevo**".
+### Es posible que el instalador solicite actualización, seleccionamos "**Actualizar al instalador nuevo**". Esperamos entonces a que finalice la descarga.
 ###
