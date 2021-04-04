@@ -1,5 +1,5 @@
 ---
-title: Mina Protocol Node Setup
+title: Mina Protocol
 ---
 
 ## Sistema Operativo
