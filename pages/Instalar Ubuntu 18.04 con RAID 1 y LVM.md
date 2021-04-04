@@ -25,6 +25,7 @@ Se sobreentiende que luego de cada paso es necesario darle a la opcion ^^Done^^ 
 #### Establecemos, `Layout` y `Variant` en "**Spanish (Latin Amarican)**"
 ### Configuracion de Red.
 #### En la configuracion de red lo dejamos como viene por defecto o configuramos a gusto.
+#####
 ### Configuracion de servidor proxy.
 #### Proxy lo dejamos en blanco o establecemos valor deseado en caso de salir a internet por un proxy.
 ##### ![2021_04_04_proxy.PNG](https://cdn.logseq.com/%2F27628fff-82be-419a-b971-1869717d9bad33fc5316-1075-4434-81b8-573122fcfeeb2021_04_04_proxy.PNG?Expires=4771159312&Signature=goESOnr7LI6JxtXG8fA7PFqj4Jgu2OZ47lMiJIPTzHWNJ6692RdpuNShyuukpWO2JNdQR49qdJDfW3eGiSZnuy3eVmscE5nsGCGpvYPbMghT~n7JSZgyyuJqRJzRrrhIkg9kUTy0tmunyhOzKE7cUAvkccIAqJ7gq8diqqG0gRH-g~miRksOpPRv6HLq-B2hYq3d4yU-5U-ec5thp9p20bM5zs40aAmfpB3myEZKvJB~hBLo0Nx0cclTXRt7ENWDxRnbg49ABtMeC0E0oi2QnTSzutuVIH2A2aBoncZ-e53oD8-hLr1uWQhHRTyHvQCb-WDEG4vsel~qcIKxrb9Fnw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
