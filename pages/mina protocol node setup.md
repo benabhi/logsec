@@ -2,6 +2,6 @@
 title: Mina Protocol Node Setup
 ---
 
-## Este es un nodo
+## Sistema Operativo
 ### Probando la idea
 ###
