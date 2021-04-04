@@ -15,7 +15,7 @@ defmodule MyModule do
   end
 end
 ```
-#### 
+##### 
 #+BEGIN_TIP
-Cuidado con borrar x
+Cuidado con borrar xtd
 #+END_TIP
