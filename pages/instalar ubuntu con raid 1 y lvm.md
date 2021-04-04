@@ -8,7 +8,10 @@ title: Instalar Ubuntu con RAID 1 y LVM
 ```elixir
 defmodule MyModule do
   def greet(msg) do
-    IO.puts("Hello!! #{msg}")
+    IO.puts("")
+  end
+end
+}")
   end
 end
 ```
