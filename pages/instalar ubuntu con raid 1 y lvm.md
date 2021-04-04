@@ -6,5 +6,5 @@ title: Instalar Ubuntu con RAID 1 y LVM
 ### Un codigo para probar
 #### 
 #+BEGIN_QUOTE
-
+asdasdasd
 #+END_QUOTE
