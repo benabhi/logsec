@@ -2,11 +2,11 @@
 title: Instalar Ubuntu 18.04 con RAID 1 y LVM
 ---
 
+## [[Apr 4th, 2021]]
 ## 
 #+BEGIN_WARNING
 Esta guia esta basada en la version **18.04** de ubuntu, puede no ser igual en versiones posteriores.
 #+END_WARNING
-## [[Apr 4th, 2021]]
 ## Requisitios
 ### Descargar la imagen de [Ubuntu Server 18.04](https://releases.ubuntu.com/18.04/)
 ### Crear booteable de la imagen previa (cd, usb, etc)
