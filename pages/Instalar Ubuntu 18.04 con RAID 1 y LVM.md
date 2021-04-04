@@ -21,6 +21,7 @@ Se sobre entiende que luego de cada paso es necesario darle a la opcion ^^Done^^
 ### Seleccion de la distribucion del teclado.
 #### Establecemos, `Layout` y `Variant` en **Spanish (Latin Amarican)**
 ### En la configuracion de red lo dejamos con esta.
+###
 ### Proxy lo dejamos en blanco.
 ### Direrccion de "Mirrors".
 #### Los mirrors lo dejamos como viene por defecto o establecemos el valor deseado en caso de tener una url.
