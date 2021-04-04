@@ -16,4 +16,5 @@ title: Instalar Ubuntu 18.04 con RAID 1 y LVM
 #### Done
 ### En la configuracion de red lo dejamos con esta.
 ### Proxy lo dejamos en blanco.
+### Los mirrors lo dejamos como esta.
 ###
