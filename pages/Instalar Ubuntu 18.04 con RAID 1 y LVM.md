@@ -23,7 +23,7 @@ Se sobre entiende que luego de cada paso es necesario darle a la opcion ^^Done^^
 ### En la configuracion de red lo dejamos con esta.
 ### Proxy lo dejamos en blanco.
 ### Los mirrors lo dejamos como esta.
-####
+#### ![2021_04_04_mirror.PNG](https://cdn.logseq.com/%2F27628fff-82be-419a-b971-1869717d9bad5272e331-5f3c-475e-841f-b1936cb994a32021_04_04_mirror.PNG?Expires=4771158727&Signature=GUQ68JyEKwHnnAKnSSlUhu08upPuRMQHgSk1DmMsgdhno6unECqPlb2aBR4w~22wrvb7aIFnNhfrWadYVo3aKaPzwWo6YgXkFdrXaOZdQ7PgXvJ1CxgjYL8aOLjfj1LdpAeTHlfHkI1msas~zgqZl8mKd3BJL8To5hK8m8hzVYIqC2Qw-VROhtbksUz-ByfZ-cSCX9fWGo8Z9xGgkDycAeFz4c6RMJRGHJpLdNv-H9aEb3UNFD7PG972WBIQNAQn~CYoY-i1d1gxjt-It9TMJsajL-UAigpWccyd~D3PtQ3lkRGGoNiN877DInXDNq03wXlI~JgGl43kDa3hZSdk0A__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ### Configuracion de discos.
 #### Seleccionamos "**Custom storage layout**"
 ##### ![2021_04_04_select_disk_layout.PNG](https://cdn.logseq.com/%2F27628fff-82be-419a-b971-1869717d9bad73025c79-55c5-48d6-bf62-52fda30ba0442021_04_04_select_disk_layout.PNG?Expires=4771158135&Signature=SiZTMAHIQiCoZ7b3MYwHM8UEGNXPqt58QT1mM0XBvvghDDaf1wUyFckhsMnol2LLehP4i1VO5X63bTsKRs~VQtBzbkczpu1xeX7fn5lUmsb6GpclQ6z~ghfSKOU4E~H3xHKYtRyjtCfpzZbYndNb7MI2ugrZzu6Tge6vFTHP2fMhi1Qn96z8JTkrCNbj~p3EMEi-HDDjvPczk~XHejijUAc08ToowPzq-jXy05bxw5bYP2vB3zKpohuHHoVYUmkUakd42lFPXORfe6yuiR07vCoKog5j1dJcpyC7SduQTx6e0oE6O0kh6C6ATFoV0Z6Q3a73B23gwjjSREwwaECvyw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
