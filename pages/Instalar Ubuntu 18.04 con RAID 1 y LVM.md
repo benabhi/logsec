@@ -14,4 +14,5 @@ title: Instalar Ubuntu 18.04 con RAID 1 y LVM
 #### Layout: **Spanish (Latin Amarican)**
 #### Variant: **Spanish (Latin Amarican)**
 #### Done
+### En la configuracion de red lo dejamos con esta.
 ###
