@@ -17,7 +17,8 @@ Esta guia esta basada en la version **18.04** de ubuntu, puede no ser igual en v
 Se sobreentiende que luego de cada paso es necesario darle a la opcion ^^Done^^ para continuar el proceso de instalacion.
 #+END_NOTE
 ### Bootear el sistema operativo
-### En primera instancia pide el idioma, seleccionar "**Español**"
+### Seleccion de idoma
+#### En primera instancia pide el idioma, obviamente seleccionar "**Español**"
 ### Es posible que el instalador solicite actualización, seleccionamos "**Actualizar al instalador nuevo**". Esperamos entonces a que finalice la descarga.
 ### Seleccion de la distribucion del teclado.
 #### Establecemos, `Layout` y `Variant` en "**Spanish (Latin Amarican)**"
