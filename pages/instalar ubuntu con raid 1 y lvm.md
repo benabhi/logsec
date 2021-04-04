@@ -15,4 +15,7 @@ defmodule MyModule do
   end
 end
 ```
-####
+#### 
+#+BEGIN_TIP
+Cuidado con borrar x
+#+END_TIP
