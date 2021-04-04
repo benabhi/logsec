@@ -20,7 +20,7 @@ Se sobre entiende que luego de cada paso es necesario darle a la opcion ^^Done^^
 ### En primera instancia pide el idioma, seleccionar "**Español**"
 ### Es posible que el instalador solicite actualización, seleccionamos "**Actualizar al instalador nuevo**". Esperamos entonces a que finalice la descarga.
 ### Seleccion de la distribucion del teclado.
-#### Establecemos, `Layout` y `Variant` en **Spanish (Latin Amarican)**
+#### Establecemos, `Layout` y `Variant` en "**Spanish (Latin Amarican)**"
 ### En la configuracion de red lo dejamos con esta.
 ### Configuracion de servidor proxy.
 #### Proxy lo dejamos en blanco o establecemos valor deseado en caso de salir a internet por un proxy.
