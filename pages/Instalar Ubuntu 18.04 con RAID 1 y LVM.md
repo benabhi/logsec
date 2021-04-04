@@ -12,4 +12,5 @@ title: Instalar Ubuntu 18.04 con RAID 1 y LVM
 ### Es posible que el instalador solicite actualización, seleccionamos "**Actualizar al instalador nuevo**". Esperamos entonces a que finalice la descarga.
 ### Pasamos a la seleccion de teclado.
 #### Layout: **Spanish (Latin Amarican)**
-#### Variant:
+#### Variant: **Spanish (Latin Amarican)**
+###
