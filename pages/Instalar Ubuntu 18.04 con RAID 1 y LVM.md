@@ -99,4 +99,4 @@ En lo personal dejo desactivadas este tipo de automatizaciones que podrían inst
 #+END_NOTE
 #### Seleccionar `Sin actualizaciones automáticas`.
 ### Selección de programas.
-#### El unico que es recomendable es **
+#### El unico que es recomendable es "**OpenSSH**"
