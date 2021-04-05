@@ -104,6 +104,6 @@ En lo personal dejo desactivadas este tipo de automatizaciones que podrían inst
 ### Terminar la instalación.
 #### 
 #+BEGIN_WARNING
-La maquina se reiniciara luego de continuar en este punto.
+La maquina se reinicia luego de continuar en este punto.
 #+END_WARNING
 #### Seleccionar `<Continuar>` para dar cierre al proceso de instalación.
