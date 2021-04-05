@@ -18,7 +18,7 @@ Se sobreentiende que luego de cada paso es necesario darle a la opcion ^^Done^^ 
 #+END_NOTE
 ### Bootear el sistema operativo
 ### Seleccion de idoma.
-#### En primera instancia pide el idioma, obviamente seleccionar "**Español**"
+#### En primera instancia pide el idioma, obviamente seleccionar "**Español**".
 ### Actualizacion de instalador.
 #### Es posible que el instalador solicite actualización, seleccionamos "**Actualizar al instalador nuevo**". Esperamos entonces a que finalice la descarga.
 ### Seleccion de la distribucion del teclado.
