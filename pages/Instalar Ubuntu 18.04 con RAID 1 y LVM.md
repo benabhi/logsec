@@ -101,4 +101,3 @@ En lo personal dejo desactivadas este tipo de automatizaciones que podrían inst
 ### Selección de programas.
 #### El único que es recomendable es "**OpenSSH Server**".
 #### Seleccionar las deseadas y `<Continuar>`.
-###
