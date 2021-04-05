@@ -69,3 +69,4 @@ Usar la barra espaciadora para checkear las casillas.
 ###### **vg-root**, asignar todo el tamaño que quede disponible.
 ###### `Terminar` o `<Retroceder>` una vez finalizado el proceso.
 ##### Formatear y montar los recursos
+######
