@@ -3,6 +3,9 @@ title: Swap
 ---
 
 ## Tabla de valores aproximados para swap
+:PROPERTIES:
+:id: 606a8bcb-8b8b-4179-913c-5357f781ea6a
+:END:
 ### 
 |RAM Size|Swap Size (Without Hibernation)|Swap size (With Hibernation)|
 |--|--|--|

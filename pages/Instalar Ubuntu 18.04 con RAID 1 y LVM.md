@@ -50,4 +50,4 @@ Esta es la seccion mas gruesa e importante del tutorial, en gran parte este docu
 ##### Seleccionamos la opcion "**Create software RAID (md)**".
 #### Crear LVM
 ##### Particion Swap
-######
+###### ((606a8bcb-8b8b-4179-913c-5357f781ea6a))
