@@ -50,3 +50,4 @@ Ver el numlock por lo general siempre esta desactivado -.-#
 ##### Password (y confirmación del mismo).
 ##### ![2021_04_05_Captura.PNG](https://cdn.logseq.com/%2F27628fff-82be-419a-b971-1869717d9badeae31148-8429-4514-a7ed-0ee970091b822021_04_05_Captura.PNG?Expires=4771230007&Signature=RfIeo53dK3zh2PzaylgHJBWycEbtipaUZw4sxDIMXBwRLD~CYtLNK~NPqzs10X2CbxeKD9zNTYAxPOXil6UV7I0xcP-tL1fRk3DukAlTRcMUB7kHxS6W-I67yICq5bZIl-nrrwY7Ynelb3N8ZFl2rOcns1Lz1Ph2GcL2uSgTmurSHHPr~BYfThGftwUpVwHCVd6UycgygO70A4U7Xjalkx6lwtS0nP4zJ5FI0fMZ6wZI-k42BjdPEN9u6lKi9wo7tp~qU-AT396vVIakZk2S3ZSPuU9qqcdDyKKGk-lvyNT2ZdCZpwsl0vZ~nD2zulHYMMD2EMtq6ENoZ0DHQSfZ7g__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ### Particionado de Discos
+####
