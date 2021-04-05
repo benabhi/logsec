@@ -75,4 +75,5 @@ Para seleccionar los volumenes se utiliza la linea que contiene "**#**" el "**nu
 #+END_NOTE
 ###### Montamos el boot seleccionando el volumen lógico "**vg-boot**"
 ####### **Utilizar como**: Sistemas de ficheros ext4 transaccional.
+####### **Punto de montaje**: /boot
 #######
