@@ -44,15 +44,17 @@ Ver el numlock por lo general siempre esta desactivado -.-#
 #### En el siguiente Darle `enter` a cada uno de los discos y generar su correspondiente tabla de particiones.
 #### Crear el RAID 1 (Array de discos espejados)
 ##### Terminado lo anterior se habilitan nuevos menus, ir a "**Configurar RAID por software**".
-###### Darle a `<si>` para continuar con el proceso.
-###### Seleccionar **"Crear un dispositivo MD"**.
-###### Elegir el tipo de RAID, en este caso "**RAID1**"
-###### Colocar el numero de dispositivos: "**2**"
-###### A continuacion se notifica el numero de dispositivos, darle a `<Continuar>`.
-###### Seleccionar los dispositivos activos del raid. (Check a los dos discos)
-####### 
+##### Darle a `<si>` para continuar con el proceso.
+##### Seleccionar **"Crear un dispositivo MD"**.
+##### Elegir el tipo de RAID, en este caso "**RAID1**"
+##### Colocar el numero de dispositivos: "**2**"
+##### A continuacion se notifica el numero de dispositivos, darle a `<Continuar>`.
+##### Seleccionar los dispositivos activos del raid. (Check a los dos discos)
+###### 
 #+BEGIN_TIP
 Usar la barra espaciadora para checkear las casillas.
 #+END_TIP
-###### Escribir los cambios, `<si>`.
+##### Escribir los cambios, `<si>`.
+#### Configurar LVM.
+#####
 ####
