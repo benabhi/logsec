@@ -15,10 +15,6 @@ Esta guiá esta basada en la versión **18.04** de ubuntu, puede no ser igual en
 ### Crear booteable de la imagen previa (cd, usb, etc).
 ### Tener al menos dos HDD.
 ## Instalación y Configuración del SO.
-### 
-#+BEGIN_NOTE
-Se sobreentiende que luego de cada paso es necesario darle a la opción ^^Done^^ para continuar el proceso de instalación.
-#+END_NOTE
 ### Bootear el sistema operativo.
 ### Selección de idioma del instalador.
 #### En primera instancia pide el idioma, obviamente seleccionar "**Español**".
@@ -45,3 +41,4 @@ Ver el numlock por lo general siempre esta desactivado -.-#
 ##### Password (y confirmación del mismo).
 ### Particionado de Discos
 #### Seleccionar el particionado de disco "**Manual**".
+####
