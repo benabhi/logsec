@@ -16,7 +16,7 @@ Esta guia esta basada en la version **18.04** de ubuntu, puede no ser igual en v
 #+BEGIN_NOTE
 Se sobreentiende que luego de cada paso es necesario darle a la opcion ^^Done^^ para continuar el proceso de instalacion.
 #+END_NOTE
-### Bootear el sistema operativo
+### Bootear el sistema operativo.
 ### Seleccion de idoma.
 #### En primera instancia pide el idioma, obviamente seleccionar "**Español**".
 ### Actualizacion de instalador.
