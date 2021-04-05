@@ -17,7 +17,7 @@ Esta guiá esta basada en la versión **18.04** de ubuntu, puede no ser igual en
 ## Instalación y Configuración del SO.
 ### Bootear el sistema operativo.
 ### Selección de idioma del instalador.
-#### En primera instancia pide el idioma, obviamente seleccionar "**Español**".
+#### Seleccionar "**Español**".
 ### Ejecución instalador de Ubuntu 18.04
 #### Le damos a la primera opción para comenzar el proceso de instalación.
 ### Ubicación, idioma y zona horaria.
