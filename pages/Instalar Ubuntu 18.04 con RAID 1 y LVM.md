@@ -42,7 +42,7 @@ Se sobreentiende que luego de cada paso es necesario darle a la opcion ^^Done^^ 
 ### Creación de cuenta de usuario.
 #### 
 #+BEGIN_TIP
-
+Ver el numlock por lo general siempre esta desactivado -.-#
 #+END_TIP
 #### Se genera la cuenta de usuario y las credenciales tanto de este usuario como de root. Hay que facilitar al sistema los siguientes datos.
 ##### Nombre completo. Ej. "Hernan David Jalabert".
