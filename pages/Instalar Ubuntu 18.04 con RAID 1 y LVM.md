@@ -26,6 +26,8 @@ Se sobreentiende que luego de cada paso es necesario darle a la opcion ^^Done^^ 
 ### Seleccion de la distribucion del teclado.
 #### Establecemos, `Layout` y `Variant` en "**Spanish (Latin Amarican)**".
 ##### ![2021_04_04_keyboard.PNG](https://cdn.logseq.com/%2F27628fff-82be-419a-b971-1869717d9badff858b2f-e09a-4191-88e0-f55b8ac024442021_04_04_keyboard.PNG?Expires=4771159462&Signature=AfTZLfpgL4AQfOo4cTpGieW4n8VYHKgWDAvidNEyBbSj-DzPnXb~bcg4MuM1stNH48S~YJEaPnojHZGPDjR-RxUX~d~ae5FYtF52xTKYduKREYlxcSYmnhueaxXUpkKEGMe4O69upehl4rIhA8WsB8xmO2fpfaZkqLblrBHSnn0g5qEeiuA2O19VVHUJemhr1CTQvCJ-ci5g92myXveXpZOb6O6D8LfHU-EhJwI-5Z90yqJXA4QvHCHYR6QvOqjrQWR570OO3rGtjtw8Qujp9LllBfx5cRFJbQfcaprd5vaf3Okj3NY40LsLEKg284OuluRQv3NCo0NigxW78biV-w__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
+#####
+#####
 ### Configuracion de Red.
 #### En la configuracion de red lo dejamos como viene por defecto o configuramos a gusto.
 ##### ![2021_04_04_network.PNG](https://cdn.logseq.com/%2F27628fff-82be-419a-b971-1869717d9bad5cf31aa6-340c-4548-98f6-f33b7b83c5c22021_04_04_network.PNG?Expires=4771159399&Signature=B1evsEcjT2J1dK7KblB9pOozMK3CDVKP1vTSMkBZEVWmIMZEkmTnNoMP9UUgPfrtDTYYhWPYi5CwQEMmUD93s087UawKinyojkk8u02WL-utYU80QHnDY-N32TlQ9~erGfoi7pk~M032ddiJyARtBtDDuq~26dfqHM~SiuFVWD3Sgh-Yf9kVmv55ZGIFN8QSyaBDMjrqRcwCgRy65UftWE-8zvgczOwA0D4vrDEPMAqVzy~rLKBtNYxBwa~~8h2GazoLP-0dWqEm9EYyPedheEj5XjWgwBwtrDepBQT2cHO4JqnXFF-K4TyLvHfbrJgoEhDlUTwC~UMbU0LoDJQSkg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
