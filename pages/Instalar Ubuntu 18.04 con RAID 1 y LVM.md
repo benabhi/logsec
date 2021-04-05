@@ -3,7 +3,7 @@ title: Instalar Ubuntu 18.04 con RAID 1 y LVM
 ---
 
 ## [[Apr 4th, 2021]]
-## TODO Rehacer tuto con esta imagen http://old-releases.ubuntu.com/releases/bionic/
+## TODO Rehacer tuto con esta imagen http://old-releases.ubuntu.com/releases/bionic/ la version in "live"
 :PROPERTIES:
 :todo: 1617600589139
 :END:
