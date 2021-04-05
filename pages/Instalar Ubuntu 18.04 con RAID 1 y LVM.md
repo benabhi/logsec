@@ -45,5 +45,6 @@ Ver el numlock por lo general siempre esta desactivado -.-#
 #### Terminado lo anterior se habilitan nuevos menus, ir a "**Configurar RAID por software**".
 ##### Darle a `<si>` para continuar con el proceso.
 ##### Seleccionar **"Crear un dispositivo MD"**.
+##### Elegir el tipo de RAID, en este caso "**RAID1**"
 #####
 ####
