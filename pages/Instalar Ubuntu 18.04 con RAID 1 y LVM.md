@@ -58,4 +58,5 @@ Usar la barra espaciadora para checkear las casillas.
 ##### El RAID1 ya esta creado, seleccionar `Terminar` o `<Retroceder>`
 #### Configurar LVM (Manejador de volúmenes lógicos).
 ##### Seleccionar "**Configurar el Gestor de Volúmenes Lógicos**".
-##### Mantener la distribucion de particiones existentes: `<Si>`
+##### Mantener la distribución de particiones existentes: `<Si>`.
+#####
