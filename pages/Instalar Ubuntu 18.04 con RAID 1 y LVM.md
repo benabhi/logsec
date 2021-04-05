@@ -98,3 +98,5 @@ Para seleccionar los volumenes se utiliza la linea que contiene "**#**" el "**nu
 En lo personal dejo desactivadas este tipo de automatizaciones que podrían instalar software que provoque comportamientos inesperados en la pc o podrían quitar o actualizar dependencias de otros programas que podrían dejar de funcionar por la actualización. En ultima instancia es mas fácil actualizar el sistema a mano cada vez que se requiera.
 #+END_NOTE
 #### Seleccionar `Sin actualizaciones automáticas`.
+### Selección de programas.
+#### El unico que es recomendable es **
