@@ -21,7 +21,7 @@ Esta guiá esta basada en la versión **18.04** de ubuntu, puede no ser igual en
 ### Ejecución instalador de Ubuntu 18.04
 #### Le damos a la primera opción para comenzar el proceso de instalación.
 ### Ubicación, idioma y zona horaria.
-#### Seleccionamos una ubicación para que el asistente determine zona horaria y la localización del sistema.
+#### Seleccionamos una ubicación (**Argentina**) para que el asistente determine zona horaria y la localización del sistema.
 ### Selección de la distribución del teclado.
 #### La forma mas fácil de determinar el layout del teclado es confirmar la detección del teclado automática que ofrece el instalador. Para lo cual el sistema nos va ir pidiendo ingresar un conjunto de caracteres para seleccionar una distribución. (en este caso es **latam**)
 ##### TODO Tipear `y` `w` `no` `no`
