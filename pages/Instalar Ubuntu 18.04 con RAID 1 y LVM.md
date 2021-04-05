@@ -60,4 +60,5 @@ Usar la barra espaciadora para checkear las casillas.
 ##### Seleccionar "**Configurar el Gestor de Volúmenes Lógicos**".
 ##### Mantener la distribución de particiones existentes: `<Si>`.
 ##### En este menú elegir "**Crear grupo de volúmenes**".
+##### En el nombre del grupo de volúmenes seguir el estándar y colocar "**vg0**".
 #####
