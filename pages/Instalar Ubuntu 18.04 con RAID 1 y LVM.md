@@ -24,7 +24,6 @@ Se sobreentiende que luego de cada paso es necesario darle a la opcion ^^Done^^ 
 #### En primera instancia pide el idioma, obviamente seleccionar "**Español**".
 ### Ejecución instalador de Ubuntu 18.04
 #### Le damos a la primera opción para comenzar el proceso de instalación.
-#### ![2021_04_05_Captura.PNG](https://cdn.logseq.com/%2F27628fff-82be-419a-b971-1869717d9badb1f28987-dc5f-4c51-b789-a0231dbb6f172021_04_05_Captura.PNG?Expires=4771228750&Signature=O5xTRl5TVfL8i1U0I5HPNSrc7A1hEkPN8gdwjBwYdkbr6ktkOphr8DezQl0OB5rLFCFqehLXxWYJwpQpLUwvYjvukmloRmP6meRUhvDHr5eIP1tRcmmM519A-jGAJhsY9Pzau~wEmlh-fLcHyIzEcuuTPrN~TjrDPOHxN0hMAY3QzXsgtPVTHe5eeQySZEA3wy2cHqH8N30lbKVN8o6SSxLnI3yhdg7TAapqem0dMrXESQfitYCO-tf8PEMszYo1jdcwD1kk2V0xDWIe2w0M75LgDk48KCTgTyeKQ9IqsL-QMZRT66VtQRwmr6VaM8q~LWjRI0OWSP~8FE2tgzXIKg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ### Ubicación, idioma y zona horaria.
 #### Seleccionamos una ubicación para que el asistente determine zona horaria y la localización del sistema.
 #### ![2021_04_05_Captura.PNG](https://cdn.logseq.com/%2F27628fff-82be-419a-b971-1869717d9badf2bca9bc-86ef-453d-835f-ef03330d20232021_04_05_Captura.PNG?Expires=4771229041&Signature=IVrehq7ILOz5n22VuZZWd2JrDqIxtlg1~aZ1BQXBCEQrm0QOvEmHkZmWcmcg8A1CmQeipa0T3kouoALZjLn33~FAgPkDWW4NMa-z8CoI0~5HrXvI702n1~iLWbe541bx-1IV8djM8B~8E5g-MOG~zrZigDs8zcTGNJHTHq9aruMGH9x-SijCj-8BJiLX8RWLdtrP-tz0xdJtO14cDnRGuUkmCRoZNzwGRDzD0NnwsqdfIVg~p-GaZV7K2ZzeGPMrlKicdVKEhdLSSn18G9Zii1~cfDit6XG4OTbhiOlx2pqiJBQ09LIH4SQlmjA8o7e9MnzXSv7AyPnGGkKh-wDauQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
