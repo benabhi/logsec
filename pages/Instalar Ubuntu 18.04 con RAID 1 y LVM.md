@@ -64,4 +64,4 @@ Usar la barra espaciadora para checkear las casillas.
 ##### Seleccionar el array de disco (checkbox) /dev/md0 y `<Continuar>`.
 ##### Mantener la distribución de particiones existentes: `<Si>`.
 ##### Crear los siguientes volúmenes lógicos en el menú "**Crear un volumen lógico**".
-###### **vg-boot**, con 512MB alcanza para esta particion.
+###### **vg-boot**, con 512MB alcanza para esta partición.
