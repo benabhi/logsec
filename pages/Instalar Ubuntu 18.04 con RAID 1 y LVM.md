@@ -77,4 +77,4 @@ Para seleccionar los volumenes se utiliza la linea que contiene "**#**" el "**nu
 ####### **Utilizar como**: Sistemas de ficheros ext4 transaccional.
 ####### **Punto de montaje**: /boot
 ####### Terminar con `Se ha terminado de definir la partición`.
-#######
+######
