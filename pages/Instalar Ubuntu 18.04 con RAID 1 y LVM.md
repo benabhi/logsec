@@ -40,6 +40,10 @@ Se sobreentiende que luego de cada paso es necesario darle a la opcion ^^Done^^ 
 #### Ingresamos el hostname, o nombre de la pc.
 ##### ![2021_04_05_Captura.PNG](https://cdn.logseq.com/%2F27628fff-82be-419a-b971-1869717d9bad33510d74-29ab-4f6b-a1a6-40fa2d10dc0c2021_04_05_Captura.PNG?Expires=4771229639&Signature=houUNK9WBGgaCNomcL0UUjBW-8RBx2enlfrWATiPMA3c7nmZn8YimIP5uO2STK9Wk2RTd4mvD~JA8tCy3DNOGnByWozLfSJE5MUu4u7WGP9UgKbi2bTSjXUo~GqLqKoXOEIhUZ~BalX9kyj~stlhAeS7ok6FNusLiDu9SNbwztIHEfhF5N2jDXaSk5GcMNMnRHdIaGomCSRt-QiznDvvjvl-0KgJRgF1WOmRCBENtFioEJxeMgPmU6mAyrCBWp1D9jWd9JiSs8IfnNNla7f6Sq-IaOo2AuW~AGhrjjO81o3l~pNV4fQ975Pp8~FE7nD7RLz22XgAuEqbPqHCi5HgPw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ### Creación de cuenta de usuario.
+#### 
+#+BEGIN_TIP
+
+#+END_TIP
 #### Se genera la cuenta de usuario y las credenciales tanto de este usuario como de root. Hay que facilitar al sistema los siguientes datos.
 ##### Nombre completo. Ej. "Hernan David Jalabert".
 ##### Nombre de usuario. Ej. "Benabhi".
