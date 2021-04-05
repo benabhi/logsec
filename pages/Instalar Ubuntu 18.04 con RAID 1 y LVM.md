@@ -20,7 +20,7 @@ Esta guiá esta basada en la versión **18.04** de ubuntu, puede no ser igual en
 Se sobreentiende que luego de cada paso es necesario darle a la opcion ^^Done^^ para continuar el proceso de instalacion.
 #+END_NOTE
 ### Bootear el sistema operativo.
-### Seleccion de idoma.
+### Selección de idioma.
 #### En primera instancia pide el idioma, obviamente seleccionar "**Español**".
 ##### ![2021_04_05_language.PNG](https://cdn.logseq.com/%2F27628fff-82be-419a-b971-1869717d9bad026b3fda-ad3b-499e-8248-6659fe7366392021_04_05_language.PNG?Expires=4771228572&Signature=UKue7feTjlCfnjOigPicwWibz13RQe7Bg0-HrTBAQp56StsnnUVTGxLMFUcRDdiT9xTayLing0nAK8L4oycf6kEmekojdxSa7e5QPaVHkO8A-78R7uQfAJGt2KPnUb7Vz7V0k589S2tc1S4NhRHgmYCUyyPq9hNtp~Mlznr2uz4~-RM9RLirzDTK4ZhBhfNCUAd-~NI8ceFZZS~lHS5Z2SjB7D5sMKVS0rNcY5ULb12z8sB-5J5Yzr7cIsQTdvsjvRrbpBGgHaJ8caWQlSu2Rqio27TMSxKEUz1aCmv0URqW4BsjWH0L4seIww1qggiJLjrEwoukC7ykG3Ykic6srw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ### Actualizacion de instalador.
