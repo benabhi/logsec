@@ -63,4 +63,5 @@ Usar la barra espaciadora para checkear las casillas.
 ##### En el nombre del grupo de volúmenes seguir el estándar y colocar "**vg0**" y `<Continuar>`.
 ##### Seleccionar el array de disco (checkbox) /dev/md0 y `<Continuar>`.
 ##### Mantener la distribución de particiones existentes: `<Si>`.
-#####
+##### Crear los siguientes volúmenes lógicos en el menú "**Crear un volumen lógico**".
+###### **vg-boot**, con 512MB alcanza para esta particion.
