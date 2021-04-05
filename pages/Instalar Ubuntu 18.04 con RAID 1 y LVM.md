@@ -55,7 +55,7 @@ Ver el numlock por lo general siempre esta desactivado -.-#
 Usar la barra espaciadora para checkear las casillas.
 #+END_TIP
 ##### Escribir los cambios, `<si>`.
-##### El RAID1 ya esta creado, seleccionar `Terminar`
+##### El RAID1 ya esta creado, seleccionar `Terminar` o `<Retroceder>`
 #### Configurar LVM.
 #####
 ####
