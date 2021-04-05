@@ -49,6 +49,7 @@ Ver el numlock por lo general siempre esta desactivado -.-#
 ##### Nombre de usuario. Ej. "Benabhi".
 ##### Password (y confirmación del mismo).
 ##### ![2021_04_05_Captura.PNG](https://cdn.logseq.com/%2F27628fff-82be-419a-b971-1869717d9badeae31148-8429-4514-a7ed-0ee970091b822021_04_05_Captura.PNG?Expires=4771230007&Signature=RfIeo53dK3zh2PzaylgHJBWycEbtipaUZw4sxDIMXBwRLD~CYtLNK~NPqzs10X2CbxeKD9zNTYAxPOXil6UV7I0xcP-tL1fRk3DukAlTRcMUB7kHxS6W-I67yICq5bZIl-nrrwY7Ynelb3N8ZFl2rOcns1Lz1Ph2GcL2uSgTmurSHHPr~BYfThGftwUpVwHCVd6UycgygO70A4U7Xjalkx6lwtS0nP4zJ5FI0fMZ6wZI-k42BjdPEN9u6lKi9wo7tp~qU-AT396vVIakZk2S3ZSPuU9qqcdDyKKGk-lvyNT2ZdCZpwsl0vZ~nD2zulHYMMD2EMtq6ENoZ0DHQSfZ7g__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
+### Particionado de Discos
 ### Configuracion de servidor proxy.
 #### Proxy lo dejamos en blanco o establecemos valor deseado en caso de salir a internet por un proxy.
 ##### ![2021_04_04_proxy.PNG](https://cdn.logseq.com/%2F27628fff-82be-419a-b971-1869717d9bad33fc5316-1075-4434-81b8-573122fcfeeb2021_04_04_proxy.PNG?Expires=4771159312&Signature=goESOnr7LI6JxtXG8fA7PFqj4Jgu2OZ47lMiJIPTzHWNJ6692RdpuNShyuukpWO2JNdQR49qdJDfW3eGiSZnuy3eVmscE5nsGCGpvYPbMghT~n7JSZgyyuJqRJzRrrhIkg9kUTy0tmunyhOzKE7cUAvkccIAqJ7gq8diqqG0gRH-g~miRksOpPRv6HLq-B2hYq3d4yU-5U-ec5thp9p20bM5zs40aAmfpB3myEZKvJB~hBLo0Nx0cclTXRt7ENWDxRnbg49ABtMeC0E0oi2QnTSzutuVIH2A2aBoncZ-e53oD8-hLr1uWQhHRTyHvQCb-WDEG4vsel~qcIKxrb9Fnw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
