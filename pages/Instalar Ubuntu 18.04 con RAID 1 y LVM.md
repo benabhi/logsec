@@ -46,5 +46,6 @@ Ver el numlock por lo general siempre esta desactivado -.-#
 ##### Darle a `<si>` para continuar con el proceso.
 ##### Seleccionar **"Crear un dispositivo MD"**.
 ##### Elegir el tipo de RAID, en este caso "**RAID1**"
+##### Colocar el numero de dispositivos: "**2**"
 #####
 ####
