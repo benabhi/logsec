@@ -10,8 +10,8 @@ Esta guia esta basada en la version **18.04** de ubuntu, puede no ser igual en v
 ## Requisitios
 ### Descargar la imagen de [Ubuntu Server 18.04](https://releases.ubuntu.com/18.04/)
 ### Crear booteable de la imagen previa (cd, usb, etc)
-### Tener al menos dos HDD
-## Instalacion y Configuracion del SO
+### Tener al menos dos HDD.
+## Instalacion y Configuracion del SO.
 ### 
 #+BEGIN_NOTE
 Se sobreentiende que luego de cada paso es necesario darle a la opcion ^^Done^^ para continuar el proceso de instalacion.
