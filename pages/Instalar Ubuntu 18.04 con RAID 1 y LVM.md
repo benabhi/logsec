@@ -3,11 +3,6 @@ title: Instalar Ubuntu 18.04 con RAID 1 y LVM
 ---
 
 ## [[Apr 4th, 2021]]
-## TODO Rehacer tuto con esta imagen http://old-releases.ubuntu.com/releases/bionic/ la version in "live"
-:PROPERTIES:
-:todo: 1617600589139
-:END:
-### Problema con la particion /boot del RAID!
 ## 
 #+BEGIN_WARNING
 Esta guiá esta basada en la versión **18.04** de ubuntu, puede no ser igual en versiones posteriores. Es necesario utilizar la imagen que tiene el instalador "alternativo" de nombre **ubuntu-18.04-server-amd64.iso** (asegurarse que no tenga "live" en el nombre) que se puede descargar desde [Este enlace]( http://old-releases.ubuntu.com/releases/bionic/).
