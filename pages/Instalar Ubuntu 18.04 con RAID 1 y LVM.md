@@ -37,7 +37,7 @@ Se sobreentiende que luego de cada paso es necesario darle a la opcion ^^Done^^ 
 :END:
 ##### ![2021_04_05_Captura.PNG](https://cdn.logseq.com/%2F27628fff-82be-419a-b971-1869717d9badd76c5914-2c8a-4dce-ad00-c5a9073c65462021_04_05_Captura.PNG?Expires=4771229293&Signature=fS-HXXzuC8AUQQeF4agwSe6SMkkcdyaHvtlDkPvwgNDPNr-GCseWD0KE28bEYOVB1aApoosL9Xbs9xnJEfJcIbGZQ4FyzM-sMMbokU83aWGTKKCDditS5hE~I5iUE059tgIcM4b3Ys54zTR-OBzemZbekV4GdYfzbO5kfH23fGlBIRbHEKiUBsDDtaAP5Hjq8~yh-ZmP4huDoqjIRHHdeRDUA8U-goqGmaznBwrBZgB6AKyx3zLvpLFAYqIccg1p-M5vFai7qsr10BNr5dPixMEeQsgh-wQu9xXH4FPPO7lvklUSK4lnVjmr6CmEtOfmNMQ-0BQnqjkiXyZKV6NlHw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ### Configuracion de Red.
-#### Ingresamos el "hostname," o nombre de la pc.
+#### Ingresamos el hostname, o nombre de la pc.
 ##### ![2021_04_05_Captura.PNG](https://cdn.logseq.com/%2F27628fff-82be-419a-b971-1869717d9bad33510d74-29ab-4f6b-a1a6-40fa2d10dc0c2021_04_05_Captura.PNG?Expires=4771229639&Signature=houUNK9WBGgaCNomcL0UUjBW-8RBx2enlfrWATiPMA3c7nmZn8YimIP5uO2STK9Wk2RTd4mvD~JA8tCy3DNOGnByWozLfSJE5MUu4u7WGP9UgKbi2bTSjXUo~GqLqKoXOEIhUZ~BalX9kyj~stlhAeS7ok6FNusLiDu9SNbwztIHEfhF5N2jDXaSk5GcMNMnRHdIaGomCSRt-QiznDvvjvl-0KgJRgF1WOmRCBENtFioEJxeMgPmU6mAyrCBWp1D9jWd9JiSs8IfnNNla7f6Sq-IaOo2AuW~AGhrjjO81o3l~pNV4fQ975Pp8~FE7nD7RLz22XgAuEqbPqHCi5HgPw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ### Configuracion de servidor proxy.
 #### Proxy lo dejamos en blanco o establecemos valor deseado en caso de salir a internet por un proxy.
