@@ -26,7 +26,7 @@ Se sobreentiende que luego de cada paso es necesario darle a la opcion ^^Done^^ 
 ### Ejecución instalador de ubuntu 18.04
 #### Le damos a la primera opción para comenzar el proceso de instalación.
 #### ![2021_04_05_Captura.PNG](https://cdn.logseq.com/%2F27628fff-82be-419a-b971-1869717d9badb1f28987-dc5f-4c51-b789-a0231dbb6f172021_04_05_Captura.PNG?Expires=4771228750&Signature=O5xTRl5TVfL8i1U0I5HPNSrc7A1hEkPN8gdwjBwYdkbr6ktkOphr8DezQl0OB5rLFCFqehLXxWYJwpQpLUwvYjvukmloRmP6meRUhvDHr5eIP1tRcmmM519A-jGAJhsY9Pzau~wEmlh-fLcHyIzEcuuTPrN~TjrDPOHxN0hMAY3QzXsgtPVTHe5eeQySZEA3wy2cHqH8N30lbKVN8o6SSxLnI3yhdg7TAapqem0dMrXESQfitYCO-tf8PEMszYo1jdcwD1kk2V0xDWIe2w0M75LgDk48KCTgTyeKQ9IqsL-QMZRT66VtQRwmr6VaM8q~LWjRI0OWSP~8FE2tgzXIKg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
-### Ubicacion
+### Ubicación
 #### Seleccionamos una ubicación para que el asistente determine zona horaria y la localización del sistema.
 ### Selección de la distribución del teclado.
 #### Establecemos, `Layout` y `Variant` en "**Spanish (Latin Amarican)**".
