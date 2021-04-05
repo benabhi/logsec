@@ -90,4 +90,6 @@ Para seleccionar los volumenes se utiliza la linea que contiene "**#**" el "**nu
 #### Seleccionar ``Finalizar el particionado y escribir los cambios en el disco`.
 #### Confirmar los cambios y escritura `<Si>`.
 ### Configuracion de Proxy
-#### Coloar http://[][usuario]:[contraseña]@]servidor[:puerto]
+#### Colocar http://[][usuario]:[contraseña]@]servidor[:puerto] en caso de pasar a travez de un proxy.
+#### Avanzamos `<Continuar>`.
+###
