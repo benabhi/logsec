@@ -23,7 +23,6 @@ Se sobreentiende que luego de cada paso es necesario darle a la opcion ^^Done^^ 
 ### Actualizacion de instalador.
 #### Es posible que el instalador solicite actualización, seleccionamos "**Actualizar al instalador nuevo**". Esperamos entonces a que finalice la descarga.
 ##### ![2021_04_04_update_installer.PNG](https://cdn.logseq.com/%2F27628fff-82be-419a-b971-1869717d9badcce36341-5e68-4b4a-ac51-498bd711e0842021_04_04_update_installer.PNG?Expires=4771183243&Signature=KA57ea~KdqsUoffdfU19IjgIQ1DOi~xKM4xgqzCHJytJR9uNIH5ubr21dfsd9lyPbA6Xd6P6wsyDsettJc1PqTewxQSr0lYfAJWl36tlDbhC1riwLMMwEljsfHHB8kFKOxK6ss-CltvhmO4bAcWwU81~tsuHqWqGJ9IZchceYyn7zexZIPRW~K7s3VlVgMYN6uPxHmk5C~-6TlqntM1uI2xwEtheMcV1b5zYxWzX8JEPO3cGNaElDE~gCZn-MELRVPaL8ncV2trNcqtZEsuZTUV0WTe8Cvk-Ep2v~OplzJzfJmejyWg1xvnQtk5MXFdHltDocP4hTLz0OBmRnkqEJQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
-#####
 ### Seleccion de la distribucion del teclado.
 #### Establecemos, `Layout` y `Variant` en "**Spanish (Latin Amarican)**".
 ##### ![2021_04_04_keyboard.PNG](https://cdn.logseq.com/%2F27628fff-82be-419a-b971-1869717d9badff858b2f-e09a-4191-88e0-f55b8ac024442021_04_04_keyboard.PNG?Expires=4771159462&Signature=AfTZLfpgL4AQfOo4cTpGieW4n8VYHKgWDAvidNEyBbSj-DzPnXb~bcg4MuM1stNH48S~YJEaPnojHZGPDjR-RxUX~d~ae5FYtF52xTKYduKREYlxcSYmnhueaxXUpkKEGMe4O69upehl4rIhA8WsB8xmO2fpfaZkqLblrBHSnn0g5qEeiuA2O19VVHUJemhr1CTQvCJ-ci5g92myXveXpZOb6O6D8LfHU-EhJwI-5Z90yqJXA4QvHCHYR6QvOqjrQWR570OO3rGtjtw8Qujp9LllBfx5cRFJbQfcaprd5vaf3Okj3NY40LsLEKg284OuluRQv3NCo0NigxW78biV-w__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
