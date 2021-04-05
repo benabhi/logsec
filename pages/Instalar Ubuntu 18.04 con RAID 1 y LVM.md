@@ -44,5 +44,6 @@ Ver el numlock por lo general siempre esta desactivado -.-#
 #### En el siguiente Darle `enter` a cada uno de los discos y generar su correspondiente tabla de particiones.
 #### Terminado lo anterior se habilitan nuevos menus, ir a "**Configurar RAID por software**".
 ##### Darle a `<si>` para continuar con el proceso.
+##### Seleccionar **"Crear un dispositivo MD"**.
 #####
 ####
