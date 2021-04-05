@@ -19,7 +19,7 @@ Se sobreentiende que luego de cada paso es necesario darle a la opcion ^^Done^^ 
 ### Bootear el sistema operativo.
 ### Seleccion de idoma.
 #### En primera instancia pide el idioma, obviamente seleccionar "**Español**".
-#####
+##### ![2021_04_04_language.PNG](https://cdn.logseq.com/%2F27628fff-82be-419a-b971-1869717d9bad9237e751-0c35-43ba-af74-eb7304bbb1b22021_04_04_language.PNG?Expires=4771183150&Signature=QSnQGDrgS7NAFetXxOHKfjEe4Z7nCdYvi6Zw-CY0X6ihmsTkZ67BApcIZqkXQwpmTs75vryQo7xOAecNRN2EWfOqMFYttsQ8EagGYyDXHPeb2akWuyarwpmvMeX2Ox7Q24DvbdHv5VyeQ2rq0EJNNJ8oGSSajfV62-feHxtychdtpsUeVjvfmwhZvfKT5cak-Wvoc6TIgptBb6fuCAVNidJShGMpeKcH8UcQ~iaxq1VUxMf-J~xYImdkoiHK442MHRUGu-RjC8xFAfQXejg13d~X323up2ENRVsPcQYipPz1VBPKYPEToSumurfmIPhfR1shLUfJZ72jYJuYVzgIqA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ### Actualizacion de instalador.
 #### Es posible que el instalador solicite actualización, seleccionamos "**Actualizar al instalador nuevo**". Esperamos entonces a que finalice la descarga.
 ### Seleccion de la distribucion del teclado.
