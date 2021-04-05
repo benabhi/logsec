@@ -10,7 +10,7 @@ title: Instalar Ubuntu 18.04 con RAID 1 y LVM
 ### Problema con la particion /boot del RAID!
 ## 
 #+BEGIN_WARNING
-Esta guia esta basada en la version **18.04** de ubuntu, puede no ser igual en versiones posteriores.
+Esta guiá esta basada en la versión **18.04** de ubuntu, puede no ser igual en versiones posteriores. Es necesario utilizar la imagen que tiene el instalador "alternativo" de nombre 
 #+END_WARNING
 ## Requisitios
 ### Descargar la imagen de [Ubuntu Server 18.04](https://releases.ubuntu.com/18.04/).
