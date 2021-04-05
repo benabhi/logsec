@@ -89,8 +89,12 @@ Para seleccionar los volumenes se utiliza la linea que contiene "**#**" el "**nu
 ####### Terminar con `Se ha terminado de definir la partición`.
 #### Seleccionar ``Finalizar el particionado y escribir los cambios en el disco`.
 #### Confirmar los cambios y escritura `<Si>`.
-### Configuracion de Proxy
-#### Colocar http://[][usuario]:[contraseña]@]servidor[:puerto] en caso de pasar a travez de un proxy.
+### Configuración de Proxy.
+#### Colocar http://[][usuario]:[contraseña]@]servidor[:puerto] en caso de pasar a través de un proxy.
 #### Avanzamos `<Continuar>`.
-### Actualizaciones automaticas
-#### Seleccionar `Sin actualizaciones automaticas`
+### Actualizaciones automáticas.
+#### 
+#+BEGIN_NOTE
+En lo personal dejo desactivadas este tipo de automatizaciones que podrían instalar software que provoque comportamientos inesperados en la pc o podrían quitar o actualizar dependencias de otros programas que podrían dejar de funcionar por la actualización. En ultima instancia es mas fácil actualizar el sistema a mano cada vez que se requiera.
+#+END_NOTE
+#### Seleccionar `Sin actualizaciones automáticas`.
