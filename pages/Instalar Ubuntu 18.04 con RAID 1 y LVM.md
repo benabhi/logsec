@@ -55,5 +55,4 @@ Ver el numlock por lo general siempre esta desactivado -.-#
 Usar la barra espaciadora para checkear las casillas.
 #+END_TIP
 ###### Escribir los cambios, `<si>`.
-#####
 ####
