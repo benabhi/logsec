@@ -66,4 +66,5 @@ Usar la barra espaciadora para checkear las casillas.
 ##### Crear los siguientes volúmenes lógicos en el menú "**Crear un volumen lógico**".
 ###### **vg-boot**, con 512MB alcanza para esta partición.
 ###### **vg-swap**, para determinar el tamaño de este volumen ver la siguiente tabla de ayuda: ((606a8bcb-8b8b-4179-913c-5357f781ea6a))
+###### **vg-root**, asignar todo el tamaño que quede disponible.
 ######
