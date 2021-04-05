@@ -30,7 +30,7 @@ Se sobreentiende que luego de cada paso es necesario darle a la opcion ^^Done^^ 
 #### Seleccionamos una ubicación para que el asistente determine zona horaria y la localización del sistema.
 #### ![2021_04_05_Captura.PNG](https://cdn.logseq.com/%2F27628fff-82be-419a-b971-1869717d9badf2bca9bc-86ef-453d-835f-ef03330d20232021_04_05_Captura.PNG?Expires=4771229041&Signature=IVrehq7ILOz5n22VuZZWd2JrDqIxtlg1~aZ1BQXBCEQrm0QOvEmHkZmWcmcg8A1CmQeipa0T3kouoALZjLn33~FAgPkDWW4NMa-z8CoI0~5HrXvI702n1~iLWbe541bx-1IV8djM8B~8E5g-MOG~zrZigDs8zcTGNJHTHq9aruMGH9x-SijCj-8BJiLX8RWLdtrP-tz0xdJtO14cDnRGuUkmCRoZNzwGRDzD0NnwsqdfIVg~p-GaZV7K2ZzeGPMrlKicdVKEhdLSSn18G9Zii1~cfDit6XG4OTbhiOlx2pqiJBQ09LIH4SQlmjA8o7e9MnzXSv7AyPnGGkKh-wDauQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ### Selección de la distribución del teclado.
-#### Establecemos, `Layout` y `Variant` en "**Spanish (Latin Amarican)**".
+#### La forma mas fácil de determinar el layout del teclado es confirmar la detección del teclado. Para lo cual el sistema nos va ir pidiendo ingresar algunas letras y
 ##### ![2021_04_04_keyboard.PNG](https://cdn.logseq.com/%2F27628fff-82be-419a-b971-1869717d9badff858b2f-e09a-4191-88e0-f55b8ac024442021_04_04_keyboard.PNG?Expires=4771159462&Signature=AfTZLfpgL4AQfOo4cTpGieW4n8VYHKgWDAvidNEyBbSj-DzPnXb~bcg4MuM1stNH48S~YJEaPnojHZGPDjR-RxUX~d~ae5FYtF52xTKYduKREYlxcSYmnhueaxXUpkKEGMe4O69upehl4rIhA8WsB8xmO2fpfaZkqLblrBHSnn0g5qEeiuA2O19VVHUJemhr1CTQvCJ-ci5g92myXveXpZOb6O6D8LfHU-EhJwI-5Z90yqJXA4QvHCHYR6QvOqjrQWR570OO3rGtjtw8Qujp9LllBfx5cRFJbQfcaprd5vaf3Okj3NY40LsLEKg284OuluRQv3NCo0NigxW78biV-w__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ### Configuracion de Red.
 #### En la configuracion de red lo dejamos como viene por defecto o configuramos a gusto.
