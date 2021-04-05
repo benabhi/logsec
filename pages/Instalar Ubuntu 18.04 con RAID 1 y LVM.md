@@ -49,5 +49,5 @@ Esta es la seccion mas gruesa e importante del tutorial, en gran parte este docu
 :PROPERTIES:
 :todo: 1617559731846
 :END:
-#### Crear RAID 1
-##### Seleccionamos la opcion "**Create software RAID (md)**"
+#### Crear RAID 1.
+##### Seleccionamos la opcion "**Create software RAID (md)**".
