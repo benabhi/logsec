@@ -62,4 +62,5 @@ Usar la barra espaciadora para checkear las casillas.
 ##### En este menú elegir "**Crear grupo de volúmenes**".
 ##### En el nombre del grupo de volúmenes seguir el estándar y colocar "**vg0**" y `<Continuar>`.
 ##### Seleccionar el array de disco (checkbox) /dev/md0 y `<Continuar>`.
+##### Mantener la distribución de particiones existentes: `<Si>`.
 #####
