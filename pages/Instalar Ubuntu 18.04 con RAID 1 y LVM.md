@@ -49,7 +49,7 @@ Ver el numlock por lo general siempre esta desactivado -.-#
 ##### Colocar el numero de dispositivos: "**2**"
 ##### A continuacion se notifica el numero de dispositivos, darle a `<Continuar>`.
 ##### Seleccionar los dispositivos activos del raid. (Check a los dos discos)
-######
+###### 
 #+BEGIN_TIP
 Usar la barra espaciadora para checkear las casillas.
 #+END_TIP
