@@ -71,6 +71,6 @@ Usar la barra espaciadora para checkear las casillas.
 ##### Formatear y montar los recursos
 ###### 
 #+BEGIN_NOTE
-Para seleccionar los volumenes se utiliza la linea que contiene "**#** el numero del volumen y la cantidad de espacio", o sea la que sigue a la que tiene el nombre del volumen en cuestion.
+Para seleccionar los volumenes se utiliza la linea que contiene "**#**" el "**numero del volumen**" y la "**cantidad de espacio**" del mismo, o sea la que sigue a la que tiene el nombre del volumen en cuestion.
 #+END_NOTE
-###### Montamos el boot seleccionando el volumen logico "**vg-boot**"
+###### Montamos el boot seleccionando el volumen lógico "**vg-boot**"
