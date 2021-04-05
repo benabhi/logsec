@@ -22,7 +22,7 @@ Se sobreentiende que luego de cada paso es necesario darle a la opcion ^^Done^^ 
 ### Bootear el sistema operativo.
 ### Seleccion de idoma.
 #### En primera instancia pide el idioma, obviamente seleccionar "**Español**".
-#####
+##### ![2021_04_05_language.PNG](https://cdn.logseq.com/%2F27628fff-82be-419a-b971-1869717d9bad026b3fda-ad3b-499e-8248-6659fe7366392021_04_05_language.PNG?Expires=4771228572&Signature=UKue7feTjlCfnjOigPicwWibz13RQe7Bg0-HrTBAQp56StsnnUVTGxLMFUcRDdiT9xTayLing0nAK8L4oycf6kEmekojdxSa7e5QPaVHkO8A-78R7uQfAJGt2KPnUb7Vz7V0k589S2tc1S4NhRHgmYCUyyPq9hNtp~Mlznr2uz4~-RM9RLirzDTK4ZhBhfNCUAd-~NI8ceFZZS~lHS5Z2SjB7D5sMKVS0rNcY5ULb12z8sB-5J5Yzr7cIsQTdvsjvRrbpBGgHaJ8caWQlSu2Rqio27TMSxKEUz1aCmv0URqW4BsjWH0L4seIww1qggiJLjrEwoukC7ykG3Ykic6srw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ### Actualizacion de instalador.
 #### Es posible que el instalador solicite actualización, seleccionamos "**Actualizar al instalador nuevo**". Esperamos entonces a que finalice la descarga.
 ##### ![2021_04_04_update_installer.PNG](https://cdn.logseq.com/%2F27628fff-82be-419a-b971-1869717d9badcce36341-5e68-4b4a-ac51-498bd711e0842021_04_04_update_installer.PNG?Expires=4771183243&Signature=KA57ea~KdqsUoffdfU19IjgIQ1DOi~xKM4xgqzCHJytJR9uNIH5ubr21dfsd9lyPbA6Xd6P6wsyDsettJc1PqTewxQSr0lYfAJWl36tlDbhC1riwLMMwEljsfHHB8kFKOxK6ss-CltvhmO4bAcWwU81~tsuHqWqGJ9IZchceYyn7zexZIPRW~K7s3VlVgMYN6uPxHmk5C~-6TlqntM1uI2xwEtheMcV1b5zYxWzX8JEPO3cGNaElDE~gCZn-MELRVPaL8ncV2trNcqtZEsuZTUV0WTe8Cvk-Ep2v~OplzJzfJmejyWg1xvnQtk5MXFdHltDocP4hTLz0OBmRnkqEJQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
