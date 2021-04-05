@@ -102,4 +102,8 @@ En lo personal dejo desactivadas este tipo de automatizaciones que podrían inst
 #### El único que es recomendable es "**OpenSSH Server**".
 #### Seleccionar las deseadas y `<Continuar>`.
 ### Terminar la instalación.
+#### 
+#+BEGIN_WARNING
+La maquina se reinicia luego de continuar en este punto.
+#+END_WARNING
 #### Seleccionar `<Continuar>` para dar cierre al proceso de instalación.
