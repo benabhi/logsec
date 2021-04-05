@@ -70,9 +70,9 @@ Usar la barra espaciadora para checkear las casillas.
 ###### `Terminar` o `<Retroceder>` una vez finalizado el proceso.
 ##### Formatear y montar los recursos
 ###### 
-#+BEGIN_NOTE
+#+BEGIN_TIP
 Para seleccionar los volumenes se utiliza la linea que contiene "**#**" el "**numero del volumen**" y la "**cantidad de espacio**" del mismo, o sea la que sigue a la que tiene el nombre del volumen en cuestion.
-#+END_NOTE
+#+END_TIP
 ###### **vg-boot**
 ####### **Utilizar como**: Sistemas de ficheros ext4 transaccional.
 ####### **Punto de montaje**: /boot
