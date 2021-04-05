@@ -86,4 +86,5 @@ Para seleccionar los volumenes se utiliza la linea que contiene "**#**" el "**nu
 :PROPERTIES:
 :later: 1617635405056
 :END:
-#######
+####### Terminar con `Se ha terminado de definir la partición`.
+######
