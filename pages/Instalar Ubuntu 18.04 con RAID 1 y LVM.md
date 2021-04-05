@@ -23,7 +23,7 @@ Se sobreentiende que luego de cada paso es necesario darle a la opcion ^^Done^^ 
 ### Selección de idioma del instalador.
 #### En primera instancia pide el idioma, obviamente seleccionar "**Español**".
 ##### ![2021_04_05_language.PNG](https://cdn.logseq.com/%2F27628fff-82be-419a-b971-1869717d9bad026b3fda-ad3b-499e-8248-6659fe7366392021_04_05_language.PNG?Expires=4771228572&Signature=UKue7feTjlCfnjOigPicwWibz13RQe7Bg0-HrTBAQp56StsnnUVTGxLMFUcRDdiT9xTayLing0nAK8L4oycf6kEmekojdxSa7e5QPaVHkO8A-78R7uQfAJGt2KPnUb7Vz7V0k589S2tc1S4NhRHgmYCUyyPq9hNtp~Mlznr2uz4~-RM9RLirzDTK4ZhBhfNCUAd-~NI8ceFZZS~lHS5Z2SjB7D5sMKVS0rNcY5ULb12z8sB-5J5Yzr7cIsQTdvsjvRrbpBGgHaJ8caWQlSu2Rqio27TMSxKEUz1aCmv0URqW4BsjWH0L4seIww1qggiJLjrEwoukC7ykG3Ykic6srw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 426, :width 560}
-### Corremos el instalador de ubuntu 18.04
+### Ejecución instalador de ubuntu 18.04
 #### Le damos a la primera opción para comenzar el proceso de instalación.
 #### ![2021_04_05_Captura.PNG](https://cdn.logseq.com/%2F27628fff-82be-419a-b971-1869717d9badb1f28987-dc5f-4c51-b789-a0231dbb6f172021_04_05_Captura.PNG?Expires=4771228750&Signature=O5xTRl5TVfL8i1U0I5HPNSrc7A1hEkPN8gdwjBwYdkbr6ktkOphr8DezQl0OB5rLFCFqehLXxWYJwpQpLUwvYjvukmloRmP6meRUhvDHr5eIP1tRcmmM519A-jGAJhsY9Pzau~wEmlh-fLcHyIzEcuuTPrN~TjrDPOHxN0hMAY3QzXsgtPVTHe5eeQySZEA3wy2cHqH8N30lbKVN8o6SSxLnI3yhdg7TAapqem0dMrXESQfitYCO-tf8PEMszYo1jdcwD1kk2V0xDWIe2w0M75LgDk48KCTgTyeKQ9IqsL-QMZRT66VtQRwmr6VaM8q~LWjRI0OWSP~8FE2tgzXIKg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ### Ubicacion
