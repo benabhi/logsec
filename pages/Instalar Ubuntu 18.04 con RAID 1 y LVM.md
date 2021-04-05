@@ -33,7 +33,7 @@ Se sobreentiende que luego de cada paso es necesario darle a la opcion ^^Done^^ 
 :todo: 1617629136997
 :END:
 ### Configuración de Red.
-#### Ingresamos el hostname, o nombre de la pc que sera lo que identificara la pc a travez de lar red.
+#### Ingresamos el hostname, o nombre de la pc que sera lo que identificara el ordenador a travez de lar red.
 ### Creación de cuenta de usuario y contraseñas.
 #### 
 #+BEGIN_TIP
