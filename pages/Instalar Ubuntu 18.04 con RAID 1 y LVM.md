@@ -17,7 +17,7 @@ Esta guiá esta basada en la versión **18.04** de ubuntu, puede no ser igual en
 ## Instalación y Configuración del SO.
 ### 
 #+BEGIN_NOTE
-Se sobreentiende que luego de cada paso es necesario darle a la opcion ^^Done^^ para continuar el proceso de instalacion.
+Se sobreentiende que luego de cada paso es necesario darle a la opción ^^Done^^ para continuar el proceso de instalación.
 #+END_NOTE
 ### Bootear el sistema operativo.
 ### Selección de idioma del instalador.
