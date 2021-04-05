@@ -59,4 +59,5 @@ Usar la barra espaciadora para checkear las casillas.
 #### Configurar LVM (Manejador de volúmenes lógicos).
 ##### Seleccionar "**Configurar el Gestor de Volúmenes Lógicos**".
 ##### Mantener la distribución de particiones existentes: `<Si>`.
+##### En este menú elegir "**Crear grupo de volúmenes**".
 #####
