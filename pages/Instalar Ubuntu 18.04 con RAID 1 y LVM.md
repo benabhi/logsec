@@ -26,14 +26,12 @@ Se sobreentiende que luego de cada paso es necesario darle a la opcion ^^Done^^ 
 #### Le damos a la primera opción para comenzar el proceso de instalación.
 ### Ubicación, idioma y zona horaria.
 #### Seleccionamos una ubicación para que el asistente determine zona horaria y la localización del sistema.
-#### ![2021_04_05_Captura.PNG](https://cdn.logseq.com/%2F27628fff-82be-419a-b971-1869717d9badf2bca9bc-86ef-453d-835f-ef03330d20232021_04_05_Captura.PNG?Expires=4771229041&Signature=IVrehq7ILOz5n22VuZZWd2JrDqIxtlg1~aZ1BQXBCEQrm0QOvEmHkZmWcmcg8A1CmQeipa0T3kouoALZjLn33~FAgPkDWW4NMa-z8CoI0~5HrXvI702n1~iLWbe541bx-1IV8djM8B~8E5g-MOG~zrZigDs8zcTGNJHTHq9aruMGH9x-SijCj-8BJiLX8RWLdtrP-tz0xdJtO14cDnRGuUkmCRoZNzwGRDzD0NnwsqdfIVg~p-GaZV7K2ZzeGPMrlKicdVKEhdLSSn18G9Zii1~cfDit6XG4OTbhiOlx2pqiJBQ09LIH4SQlmjA8o7e9MnzXSv7AyPnGGkKh-wDauQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ### Selección de la distribución del teclado.
 #### La forma mas fácil de determinar el layout del teclado es confirmar la detección del teclado automática que ofrece el instalador. Para lo cual el sistema nos va ir pidiendo ingresar un conjunto de caracteres para seleccionar una distribución. (en este caso es **latam**)
-##### TODO Tipear `y` `w` `no` `no` 
+##### TODO Tipear `y` `w` `no` `no`
 :PROPERTIES:
 :todo: 1617629136997
 :END:
-##### ![2021_04_05_Captura.PNG](https://cdn.logseq.com/%2F27628fff-82be-419a-b971-1869717d9badd76c5914-2c8a-4dce-ad00-c5a9073c65462021_04_05_Captura.PNG?Expires=4771229293&Signature=fS-HXXzuC8AUQQeF4agwSe6SMkkcdyaHvtlDkPvwgNDPNr-GCseWD0KE28bEYOVB1aApoosL9Xbs9xnJEfJcIbGZQ4FyzM-sMMbokU83aWGTKKCDditS5hE~I5iUE059tgIcM4b3Ys54zTR-OBzemZbekV4GdYfzbO5kfH23fGlBIRbHEKiUBsDDtaAP5Hjq8~yh-ZmP4huDoqjIRHHdeRDUA8U-goqGmaznBwrBZgB6AKyx3zLvpLFAYqIccg1p-M5vFai7qsr10BNr5dPixMEeQsgh-wQu9xXH4FPPO7lvklUSK4lnVjmr6CmEtOfmNMQ-0BQnqjkiXyZKV6NlHw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ### Configuración de Red.
 #### Ingresamos el hostname, o nombre de la pc.
 ##### ![2021_04_05_Captura.PNG](https://cdn.logseq.com/%2F27628fff-82be-419a-b971-1869717d9bad33510d74-29ab-4f6b-a1a6-40fa2d10dc0c2021_04_05_Captura.PNG?Expires=4771229639&Signature=houUNK9WBGgaCNomcL0UUjBW-8RBx2enlfrWATiPMA3c7nmZn8YimIP5uO2STK9Wk2RTd4mvD~JA8tCy3DNOGnByWozLfSJE5MUu4u7WGP9UgKbi2bTSjXUo~GqLqKoXOEIhUZ~BalX9kyj~stlhAeS7ok6FNusLiDu9SNbwztIHEfhF5N2jDXaSk5GcMNMnRHdIaGomCSRt-QiznDvvjvl-0KgJRgF1WOmRCBENtFioEJxeMgPmU6mAyrCBWp1D9jWd9JiSs8IfnNNla7f6Sq-IaOo2AuW~AGhrjjO81o3l~pNV4fQ975Pp8~FE7nD7RLz22XgAuEqbPqHCi5HgPw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
