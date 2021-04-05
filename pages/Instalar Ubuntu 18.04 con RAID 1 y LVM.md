@@ -41,4 +41,5 @@ Ver el numlock por lo general siempre esta desactivado -.-#
 ##### Password (y confirmación del mismo).
 ### Particionado de Discos
 #### Seleccionar el particionado de disco "**Manual**".
+#### En el siguiente Darle `enter` a cada uno de los discos y generar su correspondiente tabla de particiones.
 ####
