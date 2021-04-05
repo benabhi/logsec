@@ -48,7 +48,7 @@ Ver el numlock por lo general siempre esta desactivado -.-#
 ##### Seleccionar **"Crear un dispositivo MD"**.
 ##### Elegir el tipo de RAID, en este caso "**RAID1**"
 ##### Colocar el numero de dispositivos: "**2**"
-##### A continuacion se notifica el numero de dispositivos, darle a `<Continuar>`.
+##### A continuación se notifica el numero de dispositivos, darle a `<Continuar>`.
 ##### Seleccionar los dispositivos activos del raid. (Check a los dos discos)
 ###### 
 #+BEGIN_TIP
