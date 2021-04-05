@@ -82,7 +82,8 @@ Para seleccionar los volumenes se utiliza la linea que contiene "**#**" el "**nu
 ####### Terminar con `Se ha terminado de definir la partición`.
 ###### **vg-root**
 ####### **Utilizar como**: Sistemas de ficheros ext4 transaccional.
-####### LATER **Punto de montaje**: /
+####### **Punto de montaje**: /
 :PROPERTIES:
 :later: 1617635405056
 :END:
+#######
