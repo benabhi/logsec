@@ -92,4 +92,5 @@ Para seleccionar los volumenes se utiliza la linea que contiene "**#**" el "**nu
 ### Configuracion de Proxy
 #### Colocar http://[][usuario]:[contraseña]@]servidor[:puerto] en caso de pasar a travez de un proxy.
 #### Avanzamos `<Continuar>`.
-###
+### Actualizaciones automaticas
+#### Seleccionar `Sin actualizaciones automaticas`
