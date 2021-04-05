@@ -56,6 +56,6 @@ Usar la barra espaciadora para checkear las casillas.
 #+END_TIP
 ##### Escribir los cambios, `<si>`.
 ##### El RAID1 ya esta creado, seleccionar `Terminar` o `<Retroceder>`
-#### Configurar LVM.
+#### Configurar LVM (Manejador de volumenes logicos).
 #####
 ####
