@@ -79,4 +79,7 @@ Para seleccionar los volumenes se utiliza la linea que contiene "**#**" el "**nu
 ####### Terminar con `Se ha terminado de definir la partición`.
 ###### **vg-swap**
 ####### **Utilizar como**: Área de intercambio.
-#######
+####### Terminar con `Se ha terminado de definir la partición`.
+###### **vg-root**
+####### **Utilizar como**: Sistemas de ficheros ext4 transaccional.
+####### **Punto de montaje**: /
