@@ -88,4 +88,5 @@ Para seleccionar los volumenes se utiliza la linea que contiene "**#**" el "**nu
 :END:
 ####### Terminar con `Se ha terminado de definir la partición`.
 #### Seleccionar ``Finalizar el particionado y escribir los cambios en el disco`.
+#### Confirmar los cambios y escritura `<Si>`.
 ####
