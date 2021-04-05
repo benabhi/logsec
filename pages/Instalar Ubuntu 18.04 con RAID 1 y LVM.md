@@ -78,4 +78,5 @@ Para seleccionar los volumenes se utiliza la linea que contiene "**#**" el "**nu
 ####### **Punto de montaje**: /boot
 ####### Terminar con `Se ha terminado de definir la partición`.
 ###### **vg-swap**
+####### **Utilizar como**: Área de intercambio.
 #######
