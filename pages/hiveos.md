@@ -11,7 +11,3 @@ title: HiveOS
 :PROPERTIES:
 :todo: 1617747658805
 :END:
-## TODO [[Activar WoL (Wake on LAN)]]
-:PROPERTIES:
-:todo: 1617747670734
-:END:
