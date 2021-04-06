@@ -6,7 +6,8 @@ title: Configurar IP Estatica
 ## Editar los siguientes valores
 ### **DHCP=no** para evitar dar una ip dinamica.
 ### **Adress={ IP FIJA / 24 }** esta es la ip que le queremos dar a la pc.
-### DNS={SERVIDOR DNS}
+### **DNS={SERVIDOR DNS}** Generalmente el mismo router, pero no sirve de nada por que lo deshabilitamos.
+### Descomentar al final las opciones para deshabilitar ipv6
 ## 
 #+BEGIN_SRC 
 [Match]
