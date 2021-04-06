@@ -5,7 +5,7 @@ title: Configurar IP Estatica
 ## Para configurar una IP estatica editar el siguiente archivo  `/hive-config/network/20-ethernet.network`
 ## Editar los siguientes valores
 ### **DHCP=no** para evitar dar una ip dinamica.
-###
+### Adress={ IP FIJA / 24 }
 ## 
 #+BEGIN_SRC 
 [Match]
