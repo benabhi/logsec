@@ -1,0 +1,7 @@
+---
+title: Configurar IP Estatica
+---
+
+## Para configurar una IP estatica editar el siguiente archivo  `/hive-config/network/20-network-config`
+##
+##
