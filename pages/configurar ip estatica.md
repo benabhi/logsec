@@ -9,7 +9,8 @@ title: Configurar IP Estatica
 ### **Adress={ IP FIJA / 24 }** esta es la ip que le queremos dar a la pc.
 ### **DNS={SERVIDOR DNS}** Generalmente el mismo router, pero no sirve de nada por que lo deshabilitamos.
 ### Descomentar al final las opciones para deshabilitar ipv6
-## 
+## Ejemplo.
+### 
 #+BEGIN_SRC 
 [Match]
 #Match eth0, eth1, ... interfaces. Don't change it to other names
