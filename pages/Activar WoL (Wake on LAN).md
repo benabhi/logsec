@@ -23,4 +23,4 @@ ExecStart=/sbin/ethtool -s INTERFACE wol g
 [Install]
 WantedBy=basic.target
 #+END_SRC
-####
+#### Hacemos que el sistema detecte el nuevo script.
