@@ -32,9 +32,10 @@ WantedBy=basic.target
 ## Comandos utilies
 ### Para ver el estado del servicio
 #### `sudo systemctl status wol.service`
-### Para ver info de la placa de red
+### Verificar WoL
 #### 
 #+BEGIN_WARNING
 Colocar la itnerface de red que corresponda
 #+END_WARNING
 #### `ethtool eth0`
+#### En wake on lan tiene que esta el valor ^^g^^.
