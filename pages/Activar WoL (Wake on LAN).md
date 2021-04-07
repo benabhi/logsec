@@ -9,4 +9,9 @@ title: Activar WoL (Wake on LAN)
 ## Localizar la interface de red
 ### Ejecutamos `ip a` para ver el nombre de la interface de red que suele ser **eth0**.
 ## Configurar WoL
-### Creamos un archivo `sudo vim /etc/systemd/system/wol.service`
+### Creamos un archivo para utilizar systemd `sudo vim /etc/systemd/system/wol.service`.
+### Agregamos el siguiente contenido.
+#### 
+#+BEGIN_SRC 
+
+#+END_SRC
