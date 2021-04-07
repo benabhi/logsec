@@ -7,4 +7,5 @@ title: Activar WoL (Wake on LAN)
 ### Para poder realizar las modificaciones es necesario tener instalado ethtool.
 ### `sudo apt-get install ethtool -y`
 ## Localizar la interface de red
-### Eejecutamos `ip a` para ver el nombre de la itnerface de red que suele ser **ethX**  o ****.
+### Ejecutamos `ip a` para ver el nombre de la interface de red que suele ser **eth0**.
+##
