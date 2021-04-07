@@ -8,4 +8,5 @@ title: Activar WoL (Wake on LAN)
 ### `sudo apt-get install ethtool -y`
 ## Localizar la interface de red
 ### Ejecutamos `ip a` para ver el nombre de la interface de red que suele ser **eth0**.
-##
+## Configurar WoL
+### Creamos un archivo `sudo vim /etc/systemd/system/wol.service`
