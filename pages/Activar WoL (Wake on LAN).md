@@ -26,4 +26,10 @@ WantedBy=basic.target
 #### Hacemos que el sistema detecte el nuevo script.
 ##### `sudo systemctl daemon-reload`
 #### Habilitamos el servicio
-#####
+##### `sudo systemctl enable wol.service`
+#### Inicializamos el servicio
+##### `sudo systemctl start wol.service`
+## Comandos utilies
+### Para ver el estado del servicio
+#### `sudo systemctl status wol.service`
+### Para ver si esta habilitado
