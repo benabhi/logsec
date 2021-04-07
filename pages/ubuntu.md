@@ -7,4 +7,7 @@ title: Ubuntu
 :PROPERTIES:
 :todo: 1617753462546
 :END:
-##
+## TODO [[DNS dinámico con FreeDNS y ddnsclient ]]
+:PROPERTIES:
+:todo: 1617766753732
+:END:
