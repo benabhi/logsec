@@ -11,7 +11,16 @@ title: Activar WoL (Wake on LAN)
 ## Configurar WoL
 ### Creamos un archivo para utilizar systemd `sudo vim /etc/systemd/system/wol.service`.
 ### Agregamos el siguiente contenido.
-#### 
+####
 #+BEGIN_SRC 
+[Unit]
+Description=Configure Wake On LAN
 
+[Service]
+Type=oneshot
+ExecStart=/sbin/ethtool -s INTERFACE wol g
+
+[Install]
+WantedBy=basic.target
 #+END_SRC
+####
