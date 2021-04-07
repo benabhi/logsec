@@ -24,4 +24,5 @@ ExecStart=/sbin/ethtool -s INTERFACE wol g
 WantedBy=basic.target
 #+END_SRC
 #### Hacemos que el sistema detecte el nuevo script.
-##### ``
+##### `sudo systemctl daemon-reload`
+####
